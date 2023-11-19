@@ -1,16 +1,39 @@
-### Hi there 👋
+### Hi there 👋. I'm Murtaza Vasi
 
-<!--
-**murtazavasi/murtazavasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning AWS and K8s
+- 💬 Ask me about AWS, K8s, Linux, Bash Scripting, Python, etc.
+- 📫 How to reach me: murtazavasi.dev@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact:
+  - I like to explore internal workings of technologies
+  - I blog on Medium
+  - I like to travel all around the world
+  - An anime geek
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- AWS
+- Kubernetes
+- Python
+- Linux
+- Bash
+- HTML
+- CSS
+- JavaScript
+- ReactJS
+- NodeJS
+- MongoDB
+- ExpressJS
+
+### Visitor Count
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=murtazavasi.visitor-badge&left_color=green&right_color=red)
+
+### Blog Posts
+
+### Repo Stats
+
+### Dev Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
