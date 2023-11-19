@@ -31,6 +31,8 @@
 
 ### Blog Posts
 
+[![Murtaza Vasi Medium](https://github-readme-medium.vercel.app/?username=murtazavasi.dev&limit=3)](https://medium.com/@murtazavasi.dev)
+
 ### Repo Stats
 
 ### Dev Stats
