@@ -29,9 +29,11 @@
 
 ![visitors](https://komarev.com/ghpvc/?username=murtazavasi&color=blueviolet)
 
-### Blog Posts
+### Latest Blog Posts
 
-[![Murtaza Vasi Medium](https://github-readme-medium.vercel.app/?username=murtazavasi.dev&limit=3)](https://medium.com/@murtazavasi.dev)
+[![Murtaza Vasi Medium](https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@murtazavasi.dev&index=0&source=medium)](https://medium.com/@murtazavasi.dev)
+[![Murtaza Vasi Medium](https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@murtazavasi.dev&index=1&source=medium)](https://medium.com/@murtazavasi.dev)
+[![Murtaza Vasi Medium](https://medium-snippet-dc633c4f39a0.herokuapp.com/api/article.svg?username=@murtazavasi.dev&index=2&source=medium)](https://medium.com/@murtazavasi.dev)
 
 ### Repo Stats
 
