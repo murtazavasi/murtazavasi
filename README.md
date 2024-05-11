@@ -27,7 +27,7 @@
 
 ### Visitor Count
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=murtazavasi.visitor-badge&left_color=green&right_color=red)
+![visitors](https://komarev.com/ghpvc/?username=murtazavasi&color=blueviolet)
 
 ### Blog Posts
 
